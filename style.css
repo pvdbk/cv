@@ -1,0 +1,26 @@
+body {
+    width:fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    color: #fc4;
+    text-align: center;
+}
+
+h2 {
+    color: #0af;
+}
+
+table, th, td {
+    border: 1px solid #aea;
+}
+
+th, td {
+   padding: 5px;
+}
+
+footer {
+    margin-top: 30px;
+}
